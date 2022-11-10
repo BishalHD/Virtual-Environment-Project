@@ -1,1 +1,16 @@
 2022-11-10 14:10:43 - Virtual-Environment-Project.main - INFO - gone to root
+2022-11-10 14:14:52 - Virtual-Environment-Project.main - INFO - gone to root
+2022-11-10 14:15:03 - Virtual-Environment-Project.main - INFO - gone to root
+2022-11-10 14:16:32 - Virtual-Environment-Project.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-10 14:39:20 - VirtualEnvironmentProject.core.weather - INFO - LOADED WEATHER
+2022-11-10 14:39:46 - VirtualEnvironmentProject.main - INFO - gone to root
+2022-11-10 14:39:52 - VirtualEnvironmentProject.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-10 14:50:33 - VirtualEnvironmentProject.main - INFO - gone to root
+2022-11-10 14:50:39 - VirtualEnvironmentProject.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-10 14:51:27 - VirtualEnvironmentProject.core.weather - INFO - LOADED WEATHER
+2022-11-10 14:51:29 - VirtualEnvironmentProject.main - INFO - gone to root
+2022-11-10 14:51:34 - VirtualEnvironmentProject.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-10 14:53:11 - VirtualEnvironmentProject.core.weather - INFO - LOADED WEATHER
+2022-11-10 14:53:12 - VirtualEnvironmentProject.main - INFO - gone to root
+2022-11-10 14:53:17 - VirtualEnvironmentProject.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-10 14:53:17 - VirtualEnvironmentProject.core.weather - INFO - https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
